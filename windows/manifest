@@ -1,0 +1,20 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+
+version: 1.0.0
+apiversion: 3
+architectures: ARM x86
+description: testwinci
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2017 by Your Company
+
+# these should not be edited
+name: testwinci
+moduleid: com.test
+moduleIdAsIdentifier: ComTest
+guid: d245a25a-79cb-428d-a69f-f7d0cb9002b3
+platform: windows
+minsdk: 6.2.0.v20170821203442
