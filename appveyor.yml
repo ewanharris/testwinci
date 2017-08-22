@@ -6,3 +6,5 @@ test_script:
     - ti sdk install 6.2.0.v20170821203442 -d
     - cd windows
     - ti build -p windows --build-only --run-cmake
+
+build: off
